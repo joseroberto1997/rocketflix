@@ -134,4 +134,7 @@ h1 {
     text-align: center;
     margin-left: 0px;
   }
+  .description-movie .movie-description-coding {
+    text-align: center;
+  }
 }
